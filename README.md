@@ -35,4 +35,4 @@
 ```
 
 
-- [© Avishkar Patil](https://github.com/avipatilpro)
+- [© Avishkar Patil](https://github.com/Rudrabose/Caption-Bot)
